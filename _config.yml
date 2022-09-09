@@ -2,6 +2,18 @@ theme: jekyll-theme-minimal
 title: Anumita's homepage
 description: Bookmark this to keep an eye on my project updates!
 
+# URL
+url:                http://anumita0203.github.io
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
 # Navigation
 nav:
   - name:           "home"
